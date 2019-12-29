@@ -3,7 +3,7 @@
 Intra-Day top 10 share to take trade on the basis of Volatility in Indian share Market.
 Uses python to code, and freely available data on NSC india website.
 
-This script works on simple last day volatility report from NSC india website and provide the best stock to be 
+This script works on simple last day volatility report from NSE india website and provide the best stock to be 
 pick for the next day.
 
 Can be used as a learning purpose:
